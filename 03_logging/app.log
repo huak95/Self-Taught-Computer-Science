@@ -1,0 +1,9 @@
+root - 21-05-23 14:46:17 - INFO - This will get logged from info - 01_demo_log.py
+root - 21-05-23 14:46:17 - WARNING - This will get logged from warning - 01_demo_log.py
+root - 21-05-23 14:46:17 - ERROR - yolov5 raised an error - 01_demo_log.py
+root - 21-05-23 14:46:17 - ERROR - Exception occured - 01_demo_log.py
+Traceback (most recent call last):
+  File "/home/saksorn/code/Self-Taught-Computer-Science/03_logging/01_demo_log.py", line 21, in <module>
+    c = a/b
+ZeroDivisionError: division by zero
+model_logger - 21-05-23 14:46:17 - WARNING - This is warning from model - 01_demo_log.py
